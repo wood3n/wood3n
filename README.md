@@ -1,12 +1,22 @@
 ### Hi there 👋
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<p align="center">
+  <a href="https://icodex.me">
+    <h2 align="center">wood3n</h2>
+  </a>
+</p> 
+<p align="center">Creative FrontEnd Web Developer</p> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wood3n&layout=compact&theme=radical)](https://github.com/wood3n/github-readme-stats)
+<p align="center">
+  <h2 align="center">💪 Skill</h2>
+</p>
 
-![wood3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=wood3n&hide=stars,prs&theme=radical)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,nodejs,react,typescript,vue" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wood3n&hide=stars,prs&theme=radical" />
+</p>
 
 
