@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
+  <img width="120px" height="120px" src="./funny.gif" />
   <a href="https://icodex.me">
     <h2 align="center">wood3n</h2>
   </a>
